@@ -1,0 +1,12 @@
+# This is a comment
+
+# The following line sets @your-username as the owner for all files in the repository
+* @your-username
+
+# The following line sets a team as the owner for the /src/ directory
+/src/JAVA/ @your-organization/team-name
+
+/ProjectA/ @another-username
+
+# The following line sets another user as the owner for all .js files
+/devops/ valarowthu
